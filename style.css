@@ -17,9 +17,12 @@ padding: 20px;
 font-size: 32px;
      color: rgb(246, 18, 18);
 }
-section{background: rgb(82, 137, 155);
+section{background: rgb(155, 200, 227);
     padding-bottom:80px;
     padding: top 80px;
     display:flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right:5%;
 }
